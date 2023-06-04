@@ -1,2 +1,2 @@
 # todolist
-This is repository
+This is repository for project ToDo list
