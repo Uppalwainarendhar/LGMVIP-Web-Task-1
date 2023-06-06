@@ -1,6 +1,6 @@
 # todolist
 This is repository for project ToDo list.
--> clone the project into your meachine.
+-> clone the project into your machine.
 -> Type cd todo to change directory.
 -> Type ls command to see all files in the directory.
 -> You can see .html file.
